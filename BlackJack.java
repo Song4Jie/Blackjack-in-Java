@@ -1,3 +1,7 @@
+// Java scripts made for playing Blackjack
+// by Jie Song 4/21/2014
+// University of Wisconsin-Madison
+// jie.z.song@gmail.com / jsong46@wisc.edu
 
 import java.util.Scanner;
 
