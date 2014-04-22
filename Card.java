@@ -8,7 +8,7 @@ public class Card {
 	
 	
 	public Card() {
-		Random RNG = new Random(); //RNG = Random number generator   
+	Random RNG = new Random(); //RNG = Random number generator   
         int number = RNG.nextInt(52);
         this.randomNumber = number;
         
